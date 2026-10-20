@@ -275,7 +275,7 @@ School Management System.accdb
 
 ## 💡 How to Use
 
-A typical workflow for exploring a school management database is:
+**A typical workflow for exploring a school management database is:**
 
 **Step 1 — Open the database**
 
