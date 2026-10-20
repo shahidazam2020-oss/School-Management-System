@@ -160,7 +160,7 @@ By using a relational database environment, the project provides a foundation fo
 
 ## 🏗️ System Architecture
 
-The project uses a Microsoft Access database file as its primary data-storage component.
+**The project uses a Microsoft Access database file as its primary data-storage component.**
 
 ```text
               SCHOOL MANAGEMENT SYSTEM
