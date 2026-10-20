@@ -261,7 +261,7 @@ School Management System.accdb
 
 ### 5. Explore the Database
 
-Depending on the objects included in the project, inspect:
+**Depending on the objects included in the project, inspect:**
 
 * Tables
 * Queries
