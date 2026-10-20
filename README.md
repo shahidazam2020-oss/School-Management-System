@@ -105,7 +105,7 @@ By using a relational database environment, the project provides a foundation fo
 
 ## ✨ Key Features
 
-The following areas describe the intended capabilities of a school management solution. The modules actually available depend on the tables, forms, queries, and reports implemented in the supplied database.
+**The following areas describe the intended capabilities of a school management solution. The modules actually available depend on the tables, forms, queries, and reports implemented in the supplied database.**
 
 <table>
 <tr>
