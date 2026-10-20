@@ -232,7 +232,7 @@ By using a relational database environment, the project provides a foundation fo
 
 ### 1. Clone the Repository
 
-Open your terminal or command prompt and execute:
+**Open your terminal or command prompt and execute:**
 
 ```bash
 git clone https://github.com/shahidazam2020-oss/School-Management-System.git
