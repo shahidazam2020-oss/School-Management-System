@@ -224,7 +224,7 @@ By using a relational database environment, the project provides a foundation fo
 
 ### Prerequisites
 
-Before starting, make sure you have:
+**Before starting, make sure you have:**
 
 * A Windows computer.
 * Microsoft Access installed, or a compatible environment that supports the database file.
