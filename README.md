@@ -220,7 +220,7 @@ By using a relational database environment, the project provides a foundation fo
 
 ## ⚙️ Getting Started
 
-Follow these steps to open and explore the project on your computer.
+**Follow these steps to open and explore the project on your computer.**
 
 ### Prerequisites
 
