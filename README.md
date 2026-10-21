@@ -359,7 +359,7 @@ School-Management-System/
 4. Test your modifications.
 5. Submit a pull request describing your improvements.
 
-For database changes, preserve a backup of the original `.accdb` file before making modifications.
+**For database changes, preserve a backup of the original `.accdb` file before making modifications.**
 
 ---
 
