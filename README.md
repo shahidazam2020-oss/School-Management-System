@@ -343,7 +343,7 @@ School-Management-System/
 * 🗄️ Improve database relationships and validation.
 * 🌐 Consider a web-based version for multi-user access.
 
-These are potential enhancements rather than claims about existing functionality.
+**These are potential enhancements rather than claims about existing functionality.**
 
 ---
 
