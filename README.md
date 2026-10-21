@@ -351,7 +351,7 @@ School-Management-System/
 
 **Suggestions and improvements are welcome.**
 
-If you would like to contribute:
+**If you would like to contribute:**
 
 1. Fork this repository.
 2. Create a new branch.
