@@ -307,7 +307,7 @@ Use sample data or a backup when testing changes. Avoid modifying important reco
 
 **The main project file is the Microsoft Access database.**
 
-A recommended repository structure is:
+**A recommended repository structure is:**
 
 ```text
 School-Management-System/
