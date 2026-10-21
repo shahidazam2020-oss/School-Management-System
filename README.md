@@ -246,7 +246,7 @@ cd School-Management-System
 
 ### 3. Locate the Database
 
-Find the following file in your project directory:
+**Find the following file in your project directory:**
 
 ```text
 School Management System.accdb
