@@ -349,7 +349,7 @@ School-Management-System/
 
 ## 🤝 Contributing
 
-Suggestions and improvements are welcome.
+**Suggestions and improvements are welcome.**
 
 If you would like to contribute:
 
