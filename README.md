@@ -330,7 +330,7 @@ School-Management-System/
 
 ## 🔮 Future Improvements
 
-The following enhancements could extend the project, depending on your objectives:
+**The following enhancements could extend the project, depending on your objectives:**
 
 * 📊 Develop a central dashboard for important school information.
 * 👨‍🎓 Add or improve student record management.
