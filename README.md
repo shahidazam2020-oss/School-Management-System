@@ -305,7 +305,7 @@ Use sample data or a backup when testing changes. Avoid modifying important reco
 
 ## 📂 Project Structure
 
-The main project file is the Microsoft Access database.
+**The main project file is the Microsoft Access database.**
 
 A recommended repository structure is:
 
