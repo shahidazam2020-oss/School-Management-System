@@ -363,14 +363,6 @@ School-Management-System/
 
 ---
 
-## 📜 License
-
-A license has not been specified for this project.
-
-If you intend to make the source and project available for reuse, consider adding an appropriate open-source license. Until then, do not assume that others have permission to redistribute or modify the project.
-
----
-
 ## 👨‍💻 About the Developer
 
 <div align="center">
@@ -404,6 +396,15 @@ This repository represents my work on a School Management System database projec
 
 If you find any project useful or have suggestions for improvement, feel free to share your feedback.
 Thank you for visiting this repository!
+
+
+## 📜 License
+
+A license has not been specified for this project.
+
+If you intend to make the source and project available for reuse, consider adding an appropriate open-source license. Until then, do not assume that others have permission to redistribute or modify the project.
+
+---
 
 <div align="center">
 
