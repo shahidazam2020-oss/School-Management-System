@@ -403,6 +403,7 @@ This repository represents my work on a School Management System database projec
 # ⭐ Feedback
 
 If you find any project useful or have suggestions for improvement, feel free to share your feedback.
+Thank you for visiting this repository!
 
 <div align="center">
 
