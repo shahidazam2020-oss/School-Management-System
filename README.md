@@ -411,6 +411,7 @@ If this project helps you understand machine learning for healthcare prediction,
 
 ⭐ **Starring the repository**
 
+🍴 **Forking the project**
 
 ### ⭐ If you find this project interesting, consider starring the repository!
 
