@@ -409,6 +409,9 @@ If you intend to make the source and project available for reuse, consider addin
 
 If this project helps you understand machine learning for healthcare prediction, consider:
 
+⭐ **Starring the repository**
+
+
 ### ⭐ If you find this project interesting, consider starring the repository!
 
 **Built with Microsoft Access | Developed by Shahid Azam**
