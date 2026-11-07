@@ -415,6 +415,8 @@ If this project helps you understand machine learning for healthcare prediction,
 
 🐛 **Opening an issue**
 
+💡 **Sharing suggestions**
+
 ### ⭐ If you find this project interesting, consider starring the repository!
 
 **Built with Microsoft Access | Developed by Shahid Azam**
