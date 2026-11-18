@@ -3,7 +3,9 @@
 <a href="https://github.com/shahidazam2020-oss/School-Management-System/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/School-Management-System?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
-
+ <a href="https://github.com/shahidazam2020-oss/School-Management-System/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/School-Management-System?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
 # 🏫 SCHOOL MANAGEMENT SYSTEM
 
 ### 🎓 A Database-Driven Solution for School Administration
