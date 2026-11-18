@@ -6,6 +6,11 @@
  <a href="https://github.com/shahidazam2020-oss/School-Management-System/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/School-Management-System?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
+  <a href="https://github.com/shahidazam2020-oss/School-Management-System/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/School-Management-System?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
+
+  ---
 # 🏫 SCHOOL MANAGEMENT SYSTEM
 
 ### 🎓 A Database-Driven Solution for School Administration
