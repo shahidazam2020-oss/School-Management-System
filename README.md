@@ -432,4 +432,5 @@ If this project helps you understand machine learning for healthcare prediction,
 
 ---
 <p align="center">
+  <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
 
